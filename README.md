@@ -3,7 +3,7 @@ A simple design of a chess application that I made mostly from scratch, using th
 
 ## For help or more information about this one man project don't hesitate to reach out!
 
-I deployed this app to heroku from where I linked my own domain to it: https://chessx.dev
+I deployed this app to heroku from where I linked my own domain to it: https://www.chessx.one
 
 # here is a basic example of how to deploy it:
 
